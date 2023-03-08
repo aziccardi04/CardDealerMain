@@ -1,0 +1,30 @@
+C:/Users/Gaming PC/source/repos/ShuffleCard/bin/Debug/net6.0/ShuffleCard.exe
+C:/Users/Gaming PC/source/repos/ShuffleCard/bin/Debug/net6.0/ShuffleCard.deps.json
+C:/Users/Gaming PC/source/repos/ShuffleCard/bin/Debug/net6.0/ShuffleCard.runtimeconfig.json
+C:/Users/Gaming PC/source/repos/ShuffleCard/bin/Debug/net6.0/ShuffleCard.dll
+C:/Users/Gaming PC/source/repos/ShuffleCard/bin/Debug/net6.0/ShuffleCard.pdb
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.csproj.AssemblyReference.cache
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.AssemblyInfoInputs.cache
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.AssemblyInfo.cs
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.csproj.CoreCompileInputs.cache
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.dll
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/refint/ShuffleCard.dll
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.pdb
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ShuffleCard.genruntimeconfig.cache
+C:/Users/Gaming PC/source/repos/ShuffleCard/obj/Debug/net6.0/ref/ShuffleCard.dll
+/Users/alfieziccardi/Downloads/CardDealerMain/bin/Debug/net6.0/ShuffleCard
+/Users/alfieziccardi/Downloads/CardDealerMain/bin/Debug/net6.0/ShuffleCard.deps.json
+/Users/alfieziccardi/Downloads/CardDealerMain/bin/Debug/net6.0/ShuffleCard.runtimeconfig.json
+/Users/alfieziccardi/Downloads/CardDealerMain/bin/Debug/net6.0/ShuffleCard.dll
+/Users/alfieziccardi/Downloads/CardDealerMain/bin/Debug/net6.0/ShuffleCard.pdb
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.csproj.AssemblyReference.cache
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.AssemblyInfoInputs.cache
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.AssemblyInfo.cs
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.csproj.CoreCompileInputs.cache
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.dll
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/refint/ShuffleCard.dll
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.pdb
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ShuffleCard.genruntimeconfig.cache
+/Users/alfieziccardi/Downloads/CardDealerMain/obj/Debug/net6.0/ref/ShuffleCard.dll
